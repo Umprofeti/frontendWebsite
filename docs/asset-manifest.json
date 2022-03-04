@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.37781fe3.css",
+    "main.js": "./static/js/main.51167113.js",
+    "static/media/TARIFARIO-2022-COMPLETO.svg": "./static/media/TARIFARIO-2022-COMPLETO.a8627c09e46ea758ed0056e9b8802ea8.svg",
+    "static/media/portada.svg": "./static/media/portada.9c9bb60347ceb793e7e0.svg",
+    "static/media/pag completa taf3.svg": "./static/media/pag completa taf3.08c818047883e4b14df4360c012b9dae.svg",
+    "static/media/pag completa taf2.svg": "./static/media/pag completa taf2.639fce31a181b5cfe1374c0ea5c57065.svg",
+    "static/media/pag completa taf1.svg": "./static/media/pag completa taf1.676eae35acc3de80b54e3dd8e83f2109.svg",
+    "static/media/RV logo.png": "./static/media/RV logo.d8834431ac50fb211057.png",
+    "index.html": "./index.html",
+    "main.37781fe3.css.map": "./static/css/main.37781fe3.css.map",
+    "main.51167113.js.map": "./static/js/main.51167113.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37781fe3.css",
+    "static/js/main.51167113.js"
+  ]
+}
